@@ -35,6 +35,7 @@ params.rgPlatform = null
 params.sjOverHang = 100
 params.steps = 'mapping,bigwig,contig,quantification'
 params.wigRefPrefix = 'chr'
+params.contaminantGenomes = null
 
 
 // Some configuration variables
